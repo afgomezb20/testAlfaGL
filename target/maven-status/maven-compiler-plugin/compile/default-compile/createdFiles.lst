@@ -1,0 +1,12 @@
+com/safesociety/fingerprint/config/ServerConfig.class
+com/safesociety/fingerprint/services/ClientServicew.class
+com/safesociety/fingerprint/SpringBootTomcatApplication.class
+com/safesociety/fingerprint/controller/ClientJpaController.class
+com/safesociety/fingerprint/exceptions/PreexistingEntityException.class
+com/safesociety/fingerprint/exceptions/NonexistentEntityException.class
+com/safesociety/fingerprint/config/ServerConfig$1.class
+com/safesociety/fingerprint/models/Response.class
+com/safesociety/fingerprint/models/Driver.class
+com/safesociety/fingerprint/entities/Client.class
+com/safesociety/fingerprint/entities/Client_.class
+com/safesociety/fingerprint/exceptions/IllegalOrphanException.class

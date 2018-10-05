@@ -1,0 +1,10 @@
+/Users/andresgomez/NetBeansProjects/projectAlfa/src/main/java/com/safesociety/fingerprint/exceptions/PreexistingEntityException.java
+/Users/andresgomez/NetBeansProjects/projectAlfa/src/main/java/com/safesociety/fingerprint/controller/ClientJpaController.java
+/Users/andresgomez/NetBeansProjects/projectAlfa/src/main/java/com/safesociety/fingerprint/exceptions/IllegalOrphanException.java
+/Users/andresgomez/NetBeansProjects/projectAlfa/src/main/java/com/safesociety/fingerprint/SpringBootTomcatApplication.java
+/Users/andresgomez/NetBeansProjects/projectAlfa/src/main/java/com/safesociety/fingerprint/services/ClientServicew.java
+/Users/andresgomez/NetBeansProjects/projectAlfa/src/main/java/com/safesociety/fingerprint/models/Response.java
+/Users/andresgomez/NetBeansProjects/projectAlfa/src/main/java/com/safesociety/fingerprint/entities/Client.java
+/Users/andresgomez/NetBeansProjects/projectAlfa/src/main/java/com/safesociety/fingerprint/config/ServerConfig.java
+/Users/andresgomez/NetBeansProjects/projectAlfa/src/main/java/com/safesociety/fingerprint/models/Driver.java
+/Users/andresgomez/NetBeansProjects/projectAlfa/src/main/java/com/safesociety/fingerprint/exceptions/NonexistentEntityException.java
