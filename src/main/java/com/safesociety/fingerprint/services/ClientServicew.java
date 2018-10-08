@@ -25,10 +25,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class ClientServicew {
 
-    /*@RequestMapping("/clients")
-    public String index() {
-        return "<html><body><h1>Server running</h1></body></html";
-    }*/
     ClientJpaController clientJpaController;
 
     private ClientJpaController getJpaController() {
